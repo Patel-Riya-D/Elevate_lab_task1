@@ -53,15 +53,14 @@ Prepare the Titanic dataset for machine learning by handling missing values, enc
 
 ### 🔹 Correlation Heatmap (After Cleaning) 
 
-![Correlation Heatmap]
+![Correlation Heatmap] ![image](https://github.com/user-attachments/assets/e0edcecf-f8b3-4e6a-91d8-75e0b008a3af)
+
 
 - Shows correlation between all features after preprocessing.
 - Highlights useful patterns:
   - Negative correlation between `Sex_male` and `Survived`
   - Positive correlation between `Fare` and `Survived`
   - Insightful feature relationships for future model selection
-
----
 
 ---
 
