@@ -1,4 +1,4 @@
-# 🚢 Elevate Lab - Task 1: Data Cleaning & Preprocessing
+# 🚢 Task 1: Data Cleaning & Preprocessing
 
 ## 🧠 Objective
 Prepare the Titanic dataset for machine learning by handling missing values, encoding categorical variables, scaling features, and removing outliers to improve data quality and model performance.
