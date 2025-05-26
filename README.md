@@ -41,7 +41,8 @@ Prepare the Titanic dataset for machine learning by handling missing values, enc
 
 - ### 🔹 Boxplot of Scaled Features: Age and Fare
 
-![Boxplot of Age and Fare]
+![Boxplot of Age and Fare] ![image](https://github.com/user-attachments/assets/f84c7485-3ea2-42b3-af20-5e1323f35c50)
+
 
 - Visualizes the distribution of `Age` and `Fare` after scaling.
 - Outliers appear as dots beyond the whiskers.
@@ -50,7 +51,7 @@ Prepare the Titanic dataset for machine learning by handling missing values, enc
 
 ---
 
-### 🔹 Correlation Heatmap (After Cleaning)
+### 🔹 Correlation Heatmap (After Cleaning) 
 
 ![Correlation Heatmap]
 
