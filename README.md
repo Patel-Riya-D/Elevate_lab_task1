@@ -19,7 +19,7 @@ Prepare the Titanic dataset for machine learning by handling missing values, enc
 
 ### 1. 📂 Data Loading & Exploration
 - Loaded the Titanic dataset using `pandas.read_csv()`.
-- Explored the structure with `.info()`, `.describe()`, and `.isnull().sum()`.
+- Explored the structure with `.info()` and `.isnull().sum()`.
 
 ### 2. 🧼 Missing Value Handling
 - Filled missing values in the `Age` column with the mean.
