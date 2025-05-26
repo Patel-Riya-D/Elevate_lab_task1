@@ -39,9 +39,9 @@ Prepare the Titanic dataset for machine learning by handling missing values, enc
 - Plotted **boxplots** to visualize outliers in numeric features.
 - Created a **heatmap** of feature correlations to better understand data relationships.
 
-- ### 🔹 Boxplot of Scaled Features: Age and Fare
+  ### 🔹 Boxplot of Scaled Features: Age and Fare
 
-![Boxplot of Age and Fare] ![image](https://github.com/user-attachments/assets/f84c7485-3ea2-42b3-af20-5e1323f35c50)
+[Boxplot of Age and Fare] ![image](https://github.com/user-attachments/assets/f84c7485-3ea2-42b3-af20-5e1323f35c50)
 
 
 - Visualizes the distribution of `Age` and `Fare` after scaling.
@@ -53,7 +53,7 @@ Prepare the Titanic dataset for machine learning by handling missing values, enc
 
 ### 🔹 Correlation Heatmap (After Cleaning) 
 
-![Correlation Heatmap] ![image](https://github.com/user-attachments/assets/e0edcecf-f8b3-4e6a-91d8-75e0b008a3af)
+[Correlation Heatmap] ![image](https://github.com/user-attachments/assets/e0edcecf-f8b3-4e6a-91d8-75e0b008a3af)
 
 
 - Shows correlation between all features after preprocessing.
